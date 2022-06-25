@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@300&display=swap');
+
+body{
+    background-color: rgb(53, 53, 53);
+}
+
+.main{
+    margin-top: 350px;
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    font-family: 'Anek Latin', sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+    border: solid 3px rgb(223, 223, 223);
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+.mydetails{
+    text-align: center;
+    font-family: 'Anek Latin', sans-serif;
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+    margin-top: 130px;
+    position: relative;
+    right: 39px;
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+  }
+  
+
+  a:visited {
+    color: rgb(255, 255, 255);
+  }
+  
+
+  a:hover {
+    color: hotpink;
+  }
+  
+
+  a:active {
+    color: blue;
+  }
+  a:link {
+    text-decoration: none;
+  }
+
+  .soundcloud{
+    font-family: 'Anek Latin', sans-serif;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    margin-top: 100px;
+    text-align: center;
+  }
+
+.profile{
+    margin-top: 30px;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    left: 700px;
+    border-radius: 50%;
+}
+  
+
